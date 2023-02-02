@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatih
-- 🌱 I’m currently improving my Java and backend skills
+- 🌱 I’m currently improving my Java backend skills
 - 💞️ I’m looking forward to work as a Java Developer
 - 📫 How to reach me : karacaafatih@gmail.com
 - LinkedIn : https://www.linkedin.com/in/fathkrc/
