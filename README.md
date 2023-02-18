@@ -1,4 +1,4 @@
-<img src = "https://github.com/Fathkrc/Fathkrc/blob/main/header.png?raw=true">
+
 
 <h1 align= "center"> Hi , 👋 I'm Fatih Karaca </h1>
 
