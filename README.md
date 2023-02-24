@@ -8,6 +8,6 @@
 
 <ul>
    <li> https://www.linkedin.com/in/fathkrc/ </b></li>
-   <li> https://medium.com/@karacaafatih </b></li>
+   <li> https://www.hackerrank.com/karacaafatih </b></li>
 </ul>
    
