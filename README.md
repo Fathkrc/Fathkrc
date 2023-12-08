@@ -2,9 +2,9 @@
 
 <h1 align= "center"> Hi , 👋 I'm Fatih </h1>
 
-<h3 align="center">Fullstack Java Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
-<p align="justify"> Fullstack Java Developer || Java | Kotlin | Hibernate | Spring | Spring MVC | Spring Boot | SQL | API | Javascript | Html | CSS | Node.js | TypeScript | React | Redux | </p>
+<p align="justify"> Software Developer || Java | Kotlin | Hibernate | Spring | Spring MVC | Spring Boot | SQL | API | Javascript | Html | CSS | Node.js | TypeScript |  </p>
 
 <ul>
    <li> https://www.linkedin.com/in/fathkrc/ </b></li>
